@@ -1,0 +1,19 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfvars
+crash.log
+
+# Ansible
+*.retry
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Divers
+.DS_Store
+*.log
+.env
